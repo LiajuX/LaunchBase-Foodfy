@@ -1,0 +1,50 @@
+.main-content {
+    width: 940px;
+    margin: auto;
+}
+
+.main-content .banner {
+    border-radius: 30px;
+    background-color: #FBDFDB;
+}
+
+.banner {
+    height: 366px;
+    display: flex;
+}
+
+.banner-text {
+    margin: 117px 259px 117px 60px;
+    text-align: left;
+}
+
+.banner .banner-text h1 {
+    width: 316px;
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 42px;
+}
+
+.banner .banner-text p {
+    width: 316px;
+    color: #000000;
+    opacity: 0.7;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.banner .banner-image img {
+    margin-top: 66px;
+}
+
+.most-popular-h2 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
